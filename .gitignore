@@ -1,0 +1,16 @@
+# Ignorar archivos de configuración local de Kivy
+*.pyc
+__pycache__/
+.kivy/
+
+# Ignorar archivos de compilación y distribución de Python
+build/
+dist/
+
+# Ignorar archivos de respaldo y temporales
+*.bak
+*.swp
+*~
+
+# Ignorar archivos de registro
+*.log
